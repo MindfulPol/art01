@@ -4,7 +4,8 @@
 Inés: tatuaje y dibujo; blackwork, dark floral y abstracción. En estudio en Reus, también en Talavera de la Reina. CTA «Cuéntame tu idea» lleva a una conversación por Instagram. Dirección, fechas, disponibilidad y condiciones pendientes.
 
 ## Sistema
-- Superficie mineral #c8c8c3, tinta #151514, hueso #e9e7e0 y negro fotográfico.
+- Superficie gris fría #939a9f, luz #aeb4b8 y sombra #7d858b, tinta #15191c y blanco frío #f0f1f2. El gris se aproxima visualmente al fondo de liquid-arm.jpg y a la referencia monocroma adjunta por el usuario.
+- Luz amplia y caída de sombra suave, sin textura sintética. La galería y el contacto dejan ver el mismo campo continuo del cuerpo; cabecera y escenas usan sus mismos tonos. Las fotografías y el fondo abstracto conservan sus colores originales.
 - Unbounded400 para firma; Barlow Condensed400/500 en títulos; Manrope400/500/600 para lectura.
 - Fotografías de obra originales, sin filtros. El fondo decorativo de la alternativa abstracta es generado y se documenta separado de la obra.
 - La entrada abstracta cubre la pantalla con masas de tinta y hueso. Un campo de desplazamiento WebGL las deforma lentamente; el texto se mantiene quieto y el scroll retira el fondo.
