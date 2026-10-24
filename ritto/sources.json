@@ -1,0 +1,30 @@
+{
+  "originCheckpoint": "d9f6683",
+  "siteName": "rittt.0",
+  "routeName": "ritto",
+  "images": "Ocho fotografías originales proporcionadas para este proyecto; nombres de obra descriptivos salvo confirmación.",
+  "botanicalTrace": "128 trayectorias derivadas del tatuaje fotografiado en botanical-large.jpg; orden de aparición es interpretación visual, no registro del proceso.",
+  "abstractReference": {
+    "file": "assets/abstract-framed-reference.png",
+    "originalSize": [
+      376,
+      476
+    ],
+    "source": "Imagen adjunta por el usuario en esta conversación",
+    "modifications": "Ninguna; se conserva encuadre completo y marco.",
+    "pending": [
+      "autoría",
+      "título",
+      "técnica",
+      "original con mayor resolución"
+    ],
+    "usage": "Referencia de dirección visual; no se muestra como fondo ni se atribuye a Inés."
+  },
+  "abstractBackground": {
+    "file": "assets/abstract-flow.png",
+    "source": "Generación original con la herramienta integrada image_gen, 2026-10-24",
+    "purpose": "Fondo decorativo inspirado en masas fluidas blancas y negras; no es obra de la artista.",
+    "prompt": "docs/abstract-background-prompt.md",
+    "motion": "Deformación WebGL suave; imagen estática con movimiento reducido o sin WebGL."
+  }
+}
