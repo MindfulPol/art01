@@ -25,6 +25,14 @@
     "source": "Generación original con la herramienta integrada image_gen, 2026-10-24",
     "purpose": "Fondo decorativo inspirado en masas fluidas blancas y negras; no es obra de la artista.",
     "prompt": "docs/abstract-background-prompt.md",
-    "motion": "Deformación WebGL suave; imagen estática con movimiento reducido o sin WebGL."
+    "motion": "Flujo WebGL suave ampliado, retirada según los canales y luminancia de la propia imagen; pausa del flujo compatible con avance por scroll. Respaldo estático sin WebGL o con movimiento reducido."
+  },
+  "disciplines": {
+    "confirmed": [
+      "tatuaje",
+      "dibujo",
+      "cerámica"
+    ],
+    "source": "El usuario confirmó las disciplinas y la cerámica en la iteración del 24 de octubre de 2026."
   }
 }
