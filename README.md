@@ -11,3 +11,7 @@ Open `index.html` directly in a browser, or serve the folder with any static ser
 - Spatial, 3D-leaning composition with layered geometric forms
 - Elegant editorial typography instead of app-style UI
 - Minimal copy focused on presence, ambition, and inner light
+
+## ritto · rittt.0
+
+Portfolio de Inés, añadido bajo [`ritto/`](ritto/README.md). Dos entradas: [criaturas](ritto/index.html) y [obra abstracta](ritto/abstracto.html). Recursos independientes, sin compilación ni despliegue.
